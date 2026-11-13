@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#f0f9ff"/>
+  <rect x="15" y="15" width="270" height="370" rx="8" fill="#ffffff" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="25" y="25" width="250" height="180" rx="6" fill="#e0f2fe"/>
+  <circle cx="150" cy="115" r="45" fill="#0ea5e9"/>
+  <path d="M130 102c4-2 10-3 20-3s16 1 20 3v26c-4-2-10-3-20-3s-16 1-20 3zm-2 29v-28c0-1.5 1-2.5 2.5-2.5h.5c4-2 10-3 19-3s15 1 19 3h.5c1.5 0 2.5 1 2.5 2.5v28c-4-2-10-3-20-3s-16 1-20 3z" fill="#ffffff"/>
+  <text x="150" y="245" font-family="system-ui, sans-serif" font-size="16" font-weight="bold" fill="#0284c7" text-anchor="middle">PERPUSTAKAAN DIGITAL</text>
+  <text x="150" y="270" font-family="system-ui, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">Koleksi Buku Sekolah</text>
+  <rect x="110" y="295" width="80" height="4" rx="2" fill="#0ea5e9"/>
+  <text x="150" y="340" font-family="system-ui, sans-serif" font-size="11" fill="#94a3b8" text-anchor="middle">SMK Negeri 3 Kendal</text>
+</svg>

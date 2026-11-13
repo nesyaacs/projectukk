@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 400" width="300" height="400">
+  <rect width="300" height="400" fill="#f0f9ff"/>
+  <rect x="15" y="15" width="270" height="370" rx="8" fill="#ffffff" stroke="#bae6fd" stroke-width="2"/>
+  <rect x="25" y="25" width="250" height="175" rx="6" fill="#f0f9ff"/>
+  
+  <rect x="40" y="40" width="90" height="22" rx="4" fill="#0369a1"/>
+  <text x="85" y="55" font-family="system-ui, sans-serif" font-size="9" font-weight="bold" fill="#ffffff" text-anchor="middle">SAINS & BIOLOGI</text>
+  
+  <circle cx="150" cy="115" r="40" fill="#0369a1"/>
+  <path d="M135 102c4-2 9-3 15-3s11 1 15 3v24c-4-2-9-3-15-3s-11 1-15 3zm-2 27v-26c0-1.5 1-2.5 2.5-2.5h.5c3-2 8-3 14-3s11 1 14 3h.5c1.5 0 2.5 1 2.5 2.5v26c-3-2-8-3-15-3s-12 1-15 3z" fill="#ffffff"/>
+  
+  <text x="150" y="235" font-family="system-ui, sans-serif" font-size="15" font-weight="bold" fill="#0f172a" text-anchor="middle">Pesona Flora Nusantara</text>
+  <text x="150" y="258" font-family="system-ui, sans-serif" font-size="12" fill="#64748b" text-anchor="middle">& Tanaman Herbal Alami</text>
+  
+  <rect x="110" y="285" width="80" height="3" rx="1.5" fill="#0369a1"/>
+  
+  <text x="150" y="325" font-family="system-ui, sans-serif" font-size="12" font-weight="600" fill="#0369a1" text-anchor="middle">Dr. Ratna Kartika</text>
+  <text x="150" y="350" font-family="system-ui, sans-serif" font-size="10" fill="#94a3b8" text-anchor="middle">Perpustakaan Digital Sekolah</text>
+</svg>
